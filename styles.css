@@ -10,3 +10,7 @@ h1 {
 p {
     color: #085604;
 }
+img {
+    width: 400px;
+    height: auto;
+}
